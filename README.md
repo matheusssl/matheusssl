@@ -1,5 +1,3 @@
-### Sup!
-
 <h3 align="center">Currently studying Information Systems</h3>
 
 <h3 align="left">Languages and Tools:</h3>
