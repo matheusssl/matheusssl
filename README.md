@@ -1,6 +1,5 @@
 ### Sup!
 
-<!--
 **Currently studying Informations Systems**
 
 Working with:
